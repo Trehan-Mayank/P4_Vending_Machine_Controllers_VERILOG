@@ -1,3 +1,17 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: Mayank Trehan
+// 
+// Create Date: 18.04.2023 21:37:12
+// Design Name: 
+// Module Name: TLC
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+////////////////////////////////////////////////////////////////////////////////// 
+
 module V_M_C(
                 input clk,rst,
                 input Coin_01Rs,
